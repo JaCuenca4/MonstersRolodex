@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MonstersRolodex/static/css/main.4c55c76b.css",
+    "main.js": "/MonstersRolodex/static/js/main.df468938.js",
+    "static/js/787.d301a0aa.chunk.js": "/MonstersRolodex/static/js/787.d301a0aa.chunk.js",
+    "static/media/BigelowRules-Regular.ttf": "/MonstersRolodex/static/media/BigelowRules-Regular.cc8a7d2da7b5ae252299.ttf",
+    "index.html": "/MonstersRolodex/index.html",
+    "main.4c55c76b.css.map": "/MonstersRolodex/static/css/main.4c55c76b.css.map",
+    "main.df468938.js.map": "/MonstersRolodex/static/js/main.df468938.js.map",
+    "787.d301a0aa.chunk.js.map": "/MonstersRolodex/static/js/787.d301a0aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c55c76b.css",
+    "static/js/main.df468938.js"
+  ]
+}
